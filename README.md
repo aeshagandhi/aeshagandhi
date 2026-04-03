@@ -34,15 +34,22 @@ I build systems across the full ML stack — from transformer architectures from
 
 ---
 
-## Deep Learning & NLP
+## Deep Learning
 
 | Project | Description | Stack |
 |---|---|---|
 | [**Vision-Language-Deep-Learning**](https://github.com/aeshagandhi/Vision-Language-Deep-Learning) | Compared BLIP vs ViT-GPT2 for image-to-text generation on DiffusionDB. BLIP achieved **102% improvement** in combined BLEU+BERTScore after fine-tuning. | PyTorch · HuggingFace · ViT · BLIP |
-| [**NLP-Mental-Health-Classifier**](https://github.com/aeshagandhi/NLP-Mental-Health-Classifier) | Hybrid LDA+BERT classifier across 7 mental health categories. BERT alone (70% accuracy) outperforms complex hybrid architectures for sparse social media text. | BERT · LDA · K-Means · Scikit-learn |
 | [**Deep-Learning-Assignments**](https://github.com/aeshagandhi/Deep-Learning) | End-to-end deep learning coursework covering neural networks, ResNet (CIFAR-10), RNN/LSTM sequence models, GPT fine-tuning, model pruning, and adversarial attacks. | PyTorch · Transformers · CNNs · RNNs |
 
 ---
+
+## Natural Language Processing
+
+| Project | Description | Stack |
+|---|---|---|
+| [**NLP-Mental-Health-Classifier**](https://github.com/aeshagandhi/NLP-Mental-Health-Classifier) | Hybrid LDA+BERT classifier across 7 mental health categories. BERT alone (70% accuracy) outperforms complex hybrid architectures for sparse social media text. | BERT · LDA · K-Means · Scikit-learn |
+| [**Natural-Language-Processing (ECE684)**](https://github.com/aeshagandhi/ECE684-Natural-Language-Processing) | NLP coursework covering Markov text generation, noisy-channel spelling correction, POS tagging, and a PyTorch unigram model for document classification, spanning probabilistic methods to neural approaches. | Python · PyTorch · NLP · Probabilistic Models |
+
 
 ## Data Engineering (IDS 706)
 
