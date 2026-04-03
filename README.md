@@ -40,15 +40,7 @@ I build systems across the full ML stack — from transformer architectures from
 |---|---|---|
 | [**Vision-Language-Deep-Learning**](https://github.com/aeshagandhi/Vision-Language-Deep-Learning) | Compared BLIP vs ViT-GPT2 for image-to-text generation on DiffusionDB. BLIP achieved **102% improvement** in combined BLEU+BERTScore after fine-tuning. | PyTorch · HuggingFace · ViT · BLIP |
 | [**NLP-Mental-Health-Classifier**](https://github.com/aeshagandhi/NLP-Mental-Health-Classifier) | Hybrid LDA+BERT classifier across 7 mental health categories. BERT alone (70% accuracy) outperforms complex hybrid architectures for sparse social media text. | BERT · LDA · K-Means · Scikit-learn |
-
----
-
-## Statistics & Causal Inference (IDS 702 / Econ)
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Causal-Inference-Economics-Clean-Energy**](https://github.com/aeshagandhi/Causal-Inference-Economics-Clean-Energy) | Applied causal inference methods to clean energy economics questions. Two regression studies on global energy data (OWID): carbon intensity vs. GDP per capita, and predictors of renewable energy majority. Includes GSS social class & income modeling with ordinal logistic regression. | R · Python |
-| [**Statistics-Study-Guide**](https://github.com/aeshagandhi/Statistics-Study-Guide) | Personal reference covering statistical inference, regression, and hypothesis testing. | Markdown |
+| [**Deep-Learning-Assignments**](https://github.com/aeshagandhi/Deep-Learning) | End-to-end deep learning coursework covering neural networks, ResNet (CIFAR-10), RNN/LSTM sequence models, GPT fine-tuning, model pruning, and adversarial attacks. | PyTorch · Transformers · CNNs · RNNs |
 
 ---
 
@@ -65,6 +57,16 @@ I build systems across the full ML stack — from transformer architectures from
 | [**DE-Postgres-SQL-Demo**](https://github.com/aeshagandhi/DE-Postgres-SQL-Demo) | PostgreSQL in-class demo: queries, schema design, and data management. | Python · PostgreSQL |
 | [**DE-Panda-Polars-DataAnalysis-Exercise**](https://github.com/aeshagandhi/DE-Panda-Polars-DataAnalysis-Exercise) | Data analysis with Pandas and Polars on a Kaggle dataset, comparing performance tradeoffs. | Python · Jupyter |
 | [**DE-Python-Template-Workflow**](https://github.com/aeshagandhi/DE-Python-Template-Workflow) | Python project template with CI/CD workflow for IDS 706. | Python |
+
+---
+
+
+## Statistics & Causal Inference (IDS 702 / Econ)
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Causal-Inference-Economics-Clean-Energy**](https://github.com/aeshagandhi/Causal-Inference-Economics-Clean-Energy) | Applied causal inference methods to clean energy economics questions. Two regression studies on global energy data (OWID): carbon intensity vs. GDP per capita, and predictors of renewable energy majority. Includes GSS social class & income modeling with ordinal logistic regression. | R · Python |
+| [**Statistics-Study-Guide**](https://github.com/aeshagandhi/Statistics-Study-Guide) | Personal reference covering statistical inference, regression, and hypothesis testing. | Markdown |
 
 ---
 
