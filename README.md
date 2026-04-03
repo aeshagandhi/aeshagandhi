@@ -47,8 +47,7 @@ I build systems across the full ML stack — from transformer architectures from
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ids702-project**](https://github.com/aeshagandhi/ids702-project) | Two regression studies on global energy data (OWID): carbon intensity vs. GDP per capita, and predictors of renewable energy majority. Includes GSS social class & income modeling with ordinal logistic regression. | R · Quarto |
-| [**Causal-Inference-Economics-Clean-Energy**](https://github.com/aeshagandhi/Causal-Inference-Economics-Clean-Energy) | Applied causal inference methods to clean energy economics questions. | R · Python |
+| [**Causal-Inference-Economics-Clean-Energy**](https://github.com/aeshagandhi/Causal-Inference-Economics-Clean-Energy) | Applied causal inference methods to clean energy economics questions. Two regression studies on global energy data (OWID): carbon intensity vs. GDP per capita, and predictors of renewable energy majority. Includes GSS social class & income modeling with ordinal logistic regression. | R · Python |
 | [**Statistics-Study-Guide**](https://github.com/aeshagandhi/Statistics-Study-Guide) | Personal reference covering statistical inference, regression, and hypothesis testing. | Markdown |
 
 ---
