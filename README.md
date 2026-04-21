@@ -1,10 +1,10 @@
 # Hi, I'm Aesha Gandhi 
 
-**Graduate Student · Duke University (MIDS) · Data Science & Machine Learning**
+**Graduate Student · Duke University (MIDS) · UC Berkeley · Data Science & Machine Learning**
 
 I build systems across the full ML stack — from transformer architectures from scratch to production data pipelines. My work spans machine learning, reinforcement learning, NLP, deep learning, causal inference, and data engineering.
 
-📍 Durham, NC &nbsp;|&nbsp; 🎓 Duke University &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi)
+📍 Durham, NC &nbsp;|&nbsp; 🎓 Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi)
 
 ---
 
@@ -25,12 +25,13 @@ I build systems across the full ML stack — from transformer architectures from
 
 ---
 
-## AI & Intelligent Agents (AIPI 590)
+## AI & Intelligent Agents
 
 | Project | Description | Stack |
 |---|---|---|
 | [**AIPI590-IntelligentAgents**](https://github.com/aeshagandhi/AIPI590-IntelligentAgents) | Projects from Duke's Intelligent Agents course including transformer implementations and agentic system design. | Python |
 | [**Drug-Drug-Interaction-LLM**](https://github.com/aeshagandhi/Drug-Drug-Interaction-LLM) | Drug–drug interaction prediction using fine-tuned language models. | Python · HuggingFace · Jupyter |
+| [**AI-Health-Agent**](https://github.com/aeshagandhi/AI-Health-Agent) | AVA — an AI voice companion for seniors built at Duke AI Hackathon 2025. Enables natural conversation via OpenAI's Realtime API while surfacing health insights (physical, cognitive, emotional) to families through a severity-scored dashboard. | Python · FastAPI · React · OpenAI · Supabase · WebSockets |
 
 ---
 
