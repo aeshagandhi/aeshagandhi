@@ -4,7 +4,7 @@
 
 I build systems across the full ML stack — from transformer architectures from scratch to production data pipelines. My work spans machine learning, reinforcement learning, NLP, deep learning, causal inference, and data engineering.
 
-📍 Durham, NC &nbsp;|&nbsp; 🎓 Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi)
+📍 Durham, NC &nbsp;|&nbsp; 🎓 Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi) | [Resume](Aesha_Gandhi_Internship_Resume.pdf)
 
 ---
 
