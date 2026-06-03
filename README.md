@@ -39,7 +39,7 @@ I build systems across the full ML stack — from transformer architectures from
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Vision-Language-Deep-Learning**](https://github.com/aeshagandhi/Vision-Language-Deep-Learning) | Compared BLIP vs ViT-GPT2 for image-to-text generation on DiffusionDB. BLIP achieved **102% improvement** in combined BLEU+BERTScore after fine-tuning. | PyTorch · HuggingFace · ViT · BLIP |
+| [**Vision-Language-Deep-Learning**](https://github.com/aeshagandhi/Vision-Language-Deep-Learning) | Reversed the text-to-image generation paradigm by fine-tuning vision-language models (ViT-GPT2, BLIP) on 10,000 DiffusionDB image–caption pairs, achieving a 102\% improvement in combined BLEU/BERTScore on NVIDIA A100 GPUs | PyTorch · HuggingFace · ViT · BLIP |
 | [**Deep-Learning-Assignments**](https://github.com/aeshagandhi/Deep-Learning) | End-to-end deep learning coursework covering neural networks, ResNet (CIFAR-10), RNN/LSTM sequence models, GPT fine-tuning, model pruning, and adversarial attacks. | PyTorch · Transformers · CNNs · RNNs |
 
 ---
