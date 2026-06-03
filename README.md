@@ -21,7 +21,7 @@ I build systems across the full ML stack — from transformer architectures from
 | Project | Description | Stack |
 |---|---|---|
 | [**CompSci590-ReinforcementLearning**](https://github.com/aeshagandhi/CompSci590-ReinforcementLearning) | Full RL coursework: Monte Carlo, TD learning, Q-learning, policy gradient, and CartPole feature engineering. | Python · OpenAI Gym · NumPy |
-| [**Codenames-Spymaster-Reinforcement-Learning**](https://github.com/aeshagandhi/Codenames-Spymaster-Reinforcement-Learning) | RL environment for the Codenames spymaster task. Implements a REINFORCE-based agent with GloVe embeddings for semantic clue generation. | Python · PyTorch · GloVe |
+| [**Codenames-Spymaster-Reinforcement-Learning**](https://github.com/aeshagandhi/Codenames-Spymaster-Reinforcement-Learning) |Goal-conditioned RL agent for the Codenames spymaster task; benchmarks Greedy, BC, and BC + SAC + HER pipelines against a custom Gymnasium environment using sentence-transformer embeddings for semantic clue generation. | Python · PyTorch · SAC · HER · Sentence Transformers |
 
 ---
 
