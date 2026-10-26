@@ -9,7 +9,7 @@ I build ML and AI systems end to end — from computer vision models and agentic
 - Duke capstone with **Bank of New York**, developing agentic AI workflows for corporate action intelligence
 - Researcher at **Duke AI Trust Lab**, studying deception and misalignment in multi-agent AI systems
 
-Durham, NC &nbsp;|&nbsp; Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi) | [Resume](Aesha_Gandhi_Resume.pdf)
+Durham, NC &nbsp;|&nbsp; Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aesha-gandhi) | [Resume](Aesha_Gandhi_Resume.pdf)
 
 ---
 
