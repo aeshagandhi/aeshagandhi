@@ -2,18 +2,24 @@
 
 **Graduate Student · Duke University (MIDS) · UC Berkeley · Data Science & Machine Learning**
 
-I build systems across the full ML stack — from transformer architectures from scratch to production data pipelines. My work spans machine learning, reinforcement learning, NLP, deep learning, causal inference, and data engineering.
+I build ML and AI systems end to end — from computer vision models and agentic AI workflows to production SDKs and data pipelines. My work spans machine learning, reinforcement learning, NLP, deep learning, causal inference, and data engineering.
 
-📍 Durham, NC &nbsp;|&nbsp; 🎓 Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi) | [Resume](Aesha_Gandhi_Resume.pdf)
+**Currently:**
+- Data Science Intern (Computer Vision) at **SAS**, building instance segmentation and object detection models for worker-safety pipelines (previously Applied AI Engineering and Interactive Analytics & Modeling at SAS)
+- Duke capstone with **Bank of New York**, developing agentic AI workflows for corporate action intelligence
+- Researcher at **Duke AI Trust Lab**, studying deception and misalignment in multi-agent AI systems
+
+Durham, NC &nbsp;|&nbsp; Duke University & UC Berkeley &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/aeshagandhi) | [Resume](Aesha_Gandhi_Resume.pdf)
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Codenames-Spymaster-Reinforcement-Learning**](https://github.com/aeshagandhi/Codenames-Spymaster-Reinforcement-Learning) | Goal-conditioned RL agent for the Codenames spymaster task using sentence-transformer embeddings for semantic board representation. Benchmarks Greedy, Behavioral Cloning, and Soft Actor-Critic with Hindsight Experience Replay pipelines to study imitation warm-starts and reward shaping for semantic clue generation. | Python · PyTorch · SAC · HER · Sentence Transformers |
 | [**Vision-Language-Deep-Learning**](https://github.com/aeshagandhi/Vision-Language-Deep-Learning) | Reversed the text-to-image generation paradigm by fine-tuning vision-language models (ViT-GPT2, BLIP) on 10,000 DiffusionDB image–caption pairs, achieving a 102% improvement in combined BLEU/BERTScore on NVIDIA A100 GPUs. | PyTorch · HuggingFace · ViT · BLIP |
+| [**Credit-Card-Agent**](https://github.com/aeshagandhi/Credit-Card-Agent) | Agentic receipt-to-recommendation pipeline (team project; [video walkthrough](https://youtu.be/q-19Q_HRIhE)) that extracts spending patterns from receipt images using CV and OCR (Tesseract, PaddleOCR), classifies line items with a transformer-based classifier, and leverages LLM-powered web search tool use to generate grounded, real-time credit card recommendations. Compares a classical OCR + heuristic agent against a deep-learning OCR + LLM-assisted planning agent, with a Streamlit UI.<br>`ai-agents` `llm` `tool-use` `ocr` `computer-vision` `nlp` `receipt-parsing` | Python · OpenAI · Tesseract · PaddleOCR · Transformers · OpenCV · Streamlit |
+| [**Codenames-Spymaster-Reinforcement-Learning**](https://github.com/aeshagandhi/Codenames-Spymaster-Reinforcement-Learning) | Goal-conditioned RL agent for the Codenames spymaster task using sentence-transformer embeddings for semantic board representation. Benchmarks Greedy, Behavioral Cloning, and Soft Actor-Critic with Hindsight Experience Replay pipelines to study imitation warm-starts and reward shaping for semantic clue generation. | Python · PyTorch · SAC · HER · Sentence Transformers |
 | [**AI-Health-Agent**](https://github.com/aeshagandhi/AI-Health-Agent) | Voice-first AI companion for seniors (Duke AI Hackathon 2025). Uses OpenAI's Realtime API over WebSocket for low-latency audio, with a multi-layered prompt pipeline that converts conversation into structured assessments across 5 health dimensions with weighted severity scoring, surfaced via a family dashboard. | Python · FastAPI · React · OpenAI · Supabase · WebSockets |
 | [**Drug-Drug-Interaction-LLM**](https://github.com/aeshagandhi/Drug-Drug-Interaction-LLM) | Drug–drug interaction prediction using fine-tuned language models. | Python · HuggingFace · Jupyter |
 | [**NLP-Mental-Health-Classifier**](https://github.com/aeshagandhi/NLP-Mental-Health-Classifier) | Hybrid LDA+BERT classifier across 7 mental health categories. BERT alone (70% accuracy) outperforms complex hybrid architectures for sparse social media text. | BERT · LDA · K-Means · Scikit-learn |
@@ -21,7 +27,7 @@ I build systems across the full ML stack — from transformer architectures from
 
 ---
 
-## 📚 Coursework & Mini Projects
+## Coursework & Mini Projects
 
 Assignments and smaller projects from my Duke and Berkeley courses.
 
